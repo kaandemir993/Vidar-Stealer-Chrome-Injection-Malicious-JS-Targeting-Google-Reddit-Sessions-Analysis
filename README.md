@@ -77,7 +77,7 @@ A deeper look into the injected memory space of chrome.exe (PID 8944) reveals a 
 ### Key Observations:
 
 **Credential / Authentication Targets**: accounts.google.com – specifically targets Google account login pages for credential theft.
-**https://www.reddit.com/notifications** – monitors Reddit session activity (likely cookie theft).
+https://www.reddit.com/notifications – monitors Reddit session activity (likely cookie theft).
 **Gelen Kutusu** (Turkish for "Inbox") – indicates targeting of email or messaging interfaces.
 **toDashCase** / **MemoryInfra** / **BackForwardCacheCSIgnoreUnc...** – Chrome's internal memory and rendering flags
 **AutoFillEnableExpandIframeRegexPatt...** – manipulation of Chrome's AutoFill functionality to capture saved passwords/forms
