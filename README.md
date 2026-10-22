@@ -1,6 +1,6 @@
 ## 1. Binary Ninja – Obfuscation & In-Memory Payload Construction
 
-The Vidar Stealer sample (432d35552fab...60799243.exe) loaded in Binary Ninja displays heavily obfuscated code within the main.vxormo function. The analysis reveals that the malware relies on string encryption, custom XOR routines, and runtime memory assembly to hide its true behavior. The \x00-heavy byte arrays (x00\x00\x00...) in the pseudo-C view indicate that raw payload fragments are being constructed directly in memory.
+The Vidar Stealer sample loaded in Binary Ninja displays heavily obfuscated code within the main.vxormo function. The analysis reveals that the malware relies on string encryption, custom XOR routines, and runtime memory assembly to hide its true behavior. The \x00-heavy byte arrays (x00\x00\x00...) in the pseudo-C view indicate that raw payload fragments are being constructed directly in memory.
 
 ### Key Observations:
 
