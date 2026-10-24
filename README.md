@@ -141,7 +141,7 @@ If this malware analysis helped you or saved you time in your reverse engineerin
 
 ### Sample Download
 
-The analyzed OverlordRat sample is available on MalwareBazaar for those who wish to conduct their own analysis:
+The analyzed Vidar Stealer sample is available on MalwareBazaar for those who wish to conduct their own analysis:
 
 [Vidar Stealer Sample on MalwareBazaar](https://bazaar.abuse.ch/sample/432d35552fab5f79fe7f4af9ea62b2f9e777583d8bff12dda0b1f86b60799243)
 
